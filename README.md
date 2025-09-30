@@ -1,4 +1,4 @@
-# devsecops 
+# Devsecops 
 
 🔐 DevSecOps Toolkit: Security Tools & Insights
 Welcome to the DevSecOps Toolkit — a curated collection of security tools, techniques, and best practices for integrating security into every phase of the software development lifecycle.
